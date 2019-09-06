@@ -11,6 +11,7 @@
     "otp"
   ],
   "author": "AndriyAntonenko (https://github.com/AndriyAntonenko)",
+  "repository": "https://github.com/AndriyAntonenko/msg91-sendotp-promise",
   "license": "MIT",
   "dependencies": {
     "request-promise": "^4.2.4"
